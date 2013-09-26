@@ -1,7 +1,7 @@
 GitHub Beginner
 =============
 
-We use this library on GitHub when ...
+We use this library on GitHub when .....
 
 Markups
 -------
